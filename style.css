@@ -1,0 +1,39 @@
+
+
+body {
+  background-size: 100% auto;
+  background-color:rgb(225,240,255);
+  font: Helvetica;
+}
+
+.body {
+  margin: 0 auto;
+	width :70% ;
+	clear: both;
+
+}
+
+.content{
+  width:80%;
+  text-align:center;
+  padding-left: 30px;
+  background-size: 80%;
+  background-color: white;
+  margin-top:3%;
+  border-style:solid;
+  border-radius: 5px;
+  border-color:grey;
+
+}
+
+.mainContent{
+
+
+
+  margin-top 5%
+
+}
+
+li {
+  float: inherit;
+}
